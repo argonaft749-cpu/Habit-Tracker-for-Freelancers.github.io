@@ -1,7 +1,7 @@
 PRIVACY POLICY
 Application: Habit Tracker for Freelancers
 Effective Date: May 15, 2026
-
+ 
 1. INTRODUCTION
 
 This Privacy Policy describes how the application "Habit Tracker for
