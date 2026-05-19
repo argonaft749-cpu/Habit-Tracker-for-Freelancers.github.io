@@ -1,11 +1,10 @@
 PRIVACY POLICY
-Application: Habit Tracker for Freelancers
+Application: Habit Tracker App
 Effective Date: May 15, 2026
  
 1. INTRODUCTION
 
-This Privacy Policy describes how the application "Habit Tracker for
-Freelancers" (hereinafter "the App," "we," "us") collects, uses, stores,
+This Privacy Policy describes how the application "Habit Tracker App" (hereinafter "the App," "we," "us") collects, uses, stores,
 and protects the personal data of its users (hereinafter "you," "User").
 By using the App, you agree to the terms of this Policy.
 
