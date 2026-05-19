@@ -1,14 +1,14 @@
-PRIVACY POLICY
+#PRIVACY POLICY
 Application: Habit Tracker App
 Effective Date: May 15, 2026
  
-1. INTRODUCTION
+  #1. INTRODUCTION
 
 This Privacy Policy describes how the application "Habit Tracker App" (hereinafter "the App," "we," "us") collects, uses, stores,
 and protects the personal data of its users (hereinafter "you," "User").
 By using the App, you agree to the terms of this Policy.
 
-2. DATA WE COLLECT
+  #2. DATA WE COLLECT
 
 2.1. Data provided by the User:
 — Email address (upon account registration)
@@ -28,7 +28,7 @@ By using the App, you agree to the terms of this Policy.
 — We do not collect financial data (credit card details, etc.)
 — We do not collect data from other applications on your device
 
-  3. HOW WE USE YOUR DATA
+   #3. HOW WE USE YOUR DATA
 
 Collected data is used exclusively to:
 — Provide the App's functionality
@@ -38,7 +38,7 @@ Collected data is used exclusively to:
 — Improve the quality and stability of the App
 — Respond to support inquiries
 
-  4. DATA STORAGE AND SECURITY
+  #4. DATA STORAGE AND SECURITY
 
   4.1. User data is stored on secure servers with encryption in transit
 (TLS/SSL) and at rest.
@@ -47,7 +47,7 @@ purpose of maintaining the service.
   4.3. We employ commercially reasonable measures to protect data against
 unauthorized access, alteration, disclosure, or destruction.
 
-  5. THIRD-PARTY DATA SHARING
+  #5. THIRD-PARTY DATA SHARING
 
   5.1. We do not sell Users' personal data to third parties.
   5.2. We do not share data with advertising networks or data brokers.
@@ -57,7 +57,7 @@ unauthorized access, alteration, disclosure, or destruction.
   by confidentiality obligations)
 — With the User's explicit consent
 
-  6. USER RIGHTS
+  #6. USER RIGHTS
 
 Users have the right to:
 — Request a copy of their data
@@ -69,24 +69,24 @@ Users have the right to:
 To exercise these rights, send a request to the email address listed in
 the "Contact" section.
 
-  7. CHILDREN'S DATA
+  #7. CHILDREN'S DATA
 
 The App is not intended for individuals under 16 years of age. We do not
 knowingly collect data from minors. If you believe a minor has provided
 us with their data, please contact us for its removal.
 
-  8. COOKIES AND SIMILAR TECHNOLOGIES
+  #8. COOKIES AND SIMILAR TECHNOLOGIES
 
 The App may use local device storage to save settings and authorization
 tokens. We do not use third-party cookies for tracking or advertising.
 
-  9. CHANGES TO THIS POLICY
+  #9. CHANGES TO THIS POLICY
 
 We reserve the right to update this Policy. If material changes are made,
 the User will be notified through the App. Continued use of the App after
 changes are published constitutes acceptance of the updated Policy.
 
-  10. CONTACT
+  #10. CONTACT
 
 For questions regarding this Privacy Policy, please contact us at:
 Email: privacy@freelancer-habits.app
